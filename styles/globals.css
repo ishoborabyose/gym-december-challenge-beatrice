@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "font";
+  src: url("../public/fonts/roboto-v29-latin-regular.woff2");
+}
